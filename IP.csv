@@ -2,17 +2,17 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 104.19.34.146,443,TRUE,NRT,JP,Asia Pacific,Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",169.53,86.71
 104.18.60.91,443,TRUE,NRT,JP,Asia Pacific,Tokyo,400464,VMISS,169.35,84.34
 104.19.49.182,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",169.27,83.43
-8.210.118.122,443,TRUE,新加坡,JP,Asia Pacific,Tokyo,396982,GOOGLE-CLOUD-PLATFORM,168.93,47.14
+8.210.118.122,443,TRUE,NRT,JP,Asia Pacific,Tokyo,396982,GOOGLE-CLOUD-PLATFORM,168.93,47.14
 104.19.60.43,2096,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",169.01,20.99
-141.147.97.37,443,,,,,,,,,
-140.238.65.48,443,,,,,,,,,
-104.21.228.156,443,,,,,,,,,
-172.64.233.235,443,,,,,,,,,
-8.219.42.72,443,,,,,,,,,
-104.19.246.234,443,,,,,,,,,
-138.2.152.56,443,,,,,,,,,
-143.47.251.53,443,,,,,,,,,
-141.148.231.137,443,,,,,,,,,
-141.144.240.189,443,,,,,,,,,
-8.209.116.131,443,,,,,,,,,
-47.91.76.85,443,,,,,,,,,
+141.147.97.37,443,TRUE,NRT,JP,Asia Pacific,Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",169.53,86.71
+140.238.65.48,443,TRUE,NRT,JP,Asia Pacific,Tokyo,400464,VMISS,169.35,84.34
+104.21.228.156,443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",169.27,83.43
+172.64.233.235,443,TRUE,NRT,JP,Asia Pacific,Tokyo,396982,GOOGLE-CLOUD-PLATFORM,168.93,47.14
+8.219.42.72,443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",169.01,20.99
+104.19.246.234,443,TRUE,NRT,JP,Asia Pacific,Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",169.53,86.71
+138.2.152.56,443,TRUE,NRT,JP,Asia Pacific,Tokyo,400464,VMISS,169.35,84.34
+143.47.251.53,443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",169.27,83.43
+141.148.231.137,443,TRUE,NRT,JP,Asia Pacific,Tokyo,396982,GOOGLE-CLOUD-PLATFORM,168.93,47.14
+141.144.240.189,443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",169.01,20.99
+8.209.116.131,443,TRUE,NRT,JP,Asia Pacific,Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",169.53,86.71
+47.91.76.85,443,TRUE,NRT,JP,Asia Pacific,Tokyo,400464,VMISS,169.35,84.34
