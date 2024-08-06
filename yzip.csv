@@ -1,0 +1,62 @@
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+8.219.122.55,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",704,16.06
+8.222.193.65,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",635,15.4
+47.236.232.148,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",691,14.14
+47.236.253.41,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",699,13.84
+47.236.144.208,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",707,13.36
+8.219.122.55,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",720,12.77
+47.236.117.48,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",694,12.08
+47.237.121.38,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",695,11.15
+8.219.113.232,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",648,10.91
+47.237.84.173,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",683,10.16
+47.236.180.51,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",728,9.57
+47.236.117.48,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",718,9.03
+47.236.237.90,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",653,8.72
+47.236.253.41,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",673,8.71
+8.219.122.55,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",666,8.61
+47.236.130.95,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",705,8.17
+47.236.75.152,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",691,7.78
+8.219.78.1,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",682,7.38
+8.222.193.65,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",661,7.36
+47.236.232.148,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",666,7.28
+47.237.121.38,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",656,7.22
+47.236.237.90,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",687,6.94
+47.236.171.205,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",708,6.84
+47.237.0.31,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",715,6.76
+8.219.78.1,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",705,6.54
+47.237.8.82,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",697,6.19
+8.219.1.92,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",701,6.11
+8.219.107.135,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",690,6.05
+47.237.125.8,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",645,5.98
+8.219.42.72,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",251,5.78
+8.219.78.1,443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",716,5.75
+47.236.202.91,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",698,5.63
+47.236.80.110,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",682,5.63
+8.219.104.37,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",694,5.62
+47.237.125.8,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",644,5.44
+47.236.232.148,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",681,5.13
+8.219.104.37,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",686,4.96
+8.222.193.65,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",661,4.93
+8.219.107.135,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",726,4.9
+47.236.118.216,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",688,4.52
+47.236.170.225,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",694,4.49
+47.239.12.227,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",251,4.17
+47.236.189.92,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",706,3.84
+47.236.170.225,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",694,2.92
+47.236.253.41,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",668,2.75
+47.236.180.24,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",717,2.51
+47.236.145.85,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",689,2.22
+8.222.136.247,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",703,1.05
+47.236.167.231,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",738,0.35
+140.238.8.194,15800,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,424,17.88
+146.56.171.182,11659,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,445,13
+52.193.4.149,443,TRUE,NRT,JP,Asia Pacific,Tokyo,16509,AMAZON-02,273,11.19
+176.119.149.243,3000,TRUE,NRT,JP,Asia Pacific,Tokyo,3258,"xTom Japan Co., Ltd.",284,10.82
+43.153.181.217,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",470,10.47
+58.230.12.228,12139,TRUE,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,384,7.01
+176.119.149.242,3000,TRUE,NRT,JP,Asia Pacific,Tokyo,3258,"xTom Japan Co., Ltd.",283,5.58
+211.195.68.80,12290,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,337,5.23
+211.196.223.206,12481,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,370,5.15
+146.56.46.84,443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,438,4.88
+220.86.191.246,12391,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,473,4.43
+176.119.149.241,3000,TRUE,NRT,JP,Asia Pacific,Tokyo,3258,"xTom Japan Co., Ltd.",242,4.37
